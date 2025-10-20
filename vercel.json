@@ -1,0 +1,14 @@
+{
+  "routes": [
+    {
+      "src": "/forms/istc-vetements-ne9wu5",
+      "dest": "/index.html",
+      "methods": ["GET"]
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html",
+      "methods": ["GET"]
+    }
+  ]
+}
